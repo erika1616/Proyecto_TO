@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/png_48/games-battle-checkmate-chess-camel-bishop-figure-1-3956.png</file>
+        <file>images/png_48/alfil.png</file>
+        <file>images/png_48/games-battle-checkmate-chess-camel-bishop-figure-3-3975.png</file>
+        <file>images/png_48/reina.png</file>
+        <file>images/png_48/games-battle-checkmate-chess-figure-game-rook-3974.png</file>
+        <file>images/png_48/torre1.png</file>
+        <file>images/png_48/games-battle-checkmate-chess-figure-move-rook-2-3973.png</file>
+        <file>images/png_48/torre.png</file>
+        <file>images/png_48/games-battle-checkmate-chess-figure-pawn-chessboard-1-3963.png</file>
+        <file>images/png_48/peon1.png</file>
+        <file>images/png_48/games-battle-checkmate-chess-figure-pawn-chessboard-3-3972.png</file>
+        <file>images/png_48/peon.png</file>
+        <file>images/png_48/games-battle-checkmate-chess-figure-queen-wazir-3968.png</file>
+        <file>images/png_48/games-battle-checkmate-chess-knight-horse-figure-1-3966.png</file>
+        <file>images/png_48/caballo1.png</file>
+        <file>images/png_48/games-battle-chess-checkmate-figure-king-gambit-1-3964.png</file>
+        <file>images/png_48/games-battle-chess-checkmate-figure-king-gambit-2-3965.png</file>
+        <file>images/png_48/rey1.png</file>
+        <file>images/png_48/rey.png</file>
+        <file>images/png_48/caballo.png</file>
+        <file>images/png_48/games-battle-move-chess-knight-horse-figure-3953.png</file>
+        <file>images/png_48/e.png</file>
+        <file>images/png_48/reina1.png</file>
+        <file>images/png_48/alfil1.png</file>
+        <file>images/png_48/opciones.png</file>
+        <file>images/png_48/opciones2.png</file>
+    </qresource>
+</RCC>
